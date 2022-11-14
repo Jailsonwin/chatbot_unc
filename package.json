@@ -1,0 +1,25 @@
+{
+  "name": "unc_chatbot_m2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizAugustoGrein/unc_chatbot_m2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizAugustoGrein/unc_chatbot_m2/issues"
+  },
+  "homepage": "https://github.com/LuizAugustoGrein/unc_chatbot_m2#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "moment": "^2.29.4",
+    "request": "^2.88.2",
+    "telegraf": "^4.10.0"
+  }
+}
